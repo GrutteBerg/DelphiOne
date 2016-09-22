@@ -1,1 +1,1 @@
-ECHO "HALLO!"
+mkdir hallo
